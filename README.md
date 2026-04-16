@@ -19,6 +19,15 @@ The backend scrapes ycombinator.com every day and stores jobs in a hosted databa
 
 ---
 
+## Demo
+
+Watch it in action:
+
+[![YC Job Matcher Agent Demo](https://img.youtube.com/vi/5stCnnS15i8/0.jpg)](https://youtu.be/5stCnnS15i8)
+
+→ [Watch on YouTube](https://youtu.be/5stCnnS15i8)
+
+
 ## How it works
 
 ```
