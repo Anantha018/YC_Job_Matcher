@@ -1,0 +1,14 @@
+# YC Job Matcher Agent
+# pip install -r requirements.txt
+
+httpx==0.28.1
+colorama==0.4.6
+tqdm==4.67.3
+openpyxl==3.1.5
+
+# LLM providers — install only what you need
+ollama==0.6.1          # free, local — also install Ollama app from ollama.com
+groq==0.37.1           # free tier — get key at console.groq.com
+openai==1.109.1        # get key at platform.openai.com
+anthropic==0.76.0      # get key at console.anthropic.com
+google-genai==1.65.0   # get key at aistudio.google.com

@@ -1,0 +1,17 @@
+{
+  "name": "Your Name",
+  "summary": "X years as a [role]. Strong in [skills]. Built [what]. Looking for [roles] at [stage] [industry] startups. Open to [location]. [visa note].",
+  "years_experience": 3,
+  "skills": ["Skill1", "Skill2", "Skill3"],
+  "roles_looking_for": ["Founding Engineer", "Early Engineer"],
+  "locations": ["San Francisco", "Remote"],
+  "industries": ["B2B SaaS", "AI"],
+  "not_interested_in": ["Web3", "Gaming", "Defense"],
+  "deal_breakers": ["no equity", "no remote"],
+  "needs_visa": false,
+  "llm_provider": "ollama or groq or openai or claude or gemini",
+  "model": "llama3.1:8b or llama-3.3-70b-versatile or gpt-4o-mini or gemini-2.5-flash",
+  "api_key": "YOUR_API_KEY_HERE (not needed for ollama)",
+  "top_n": 10,
+  "scan_limit": 100
+}
