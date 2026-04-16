@@ -15,7 +15,7 @@ YC Job Matcher Agent is a CLI tool that:
 - Saves ranked results to Excel and JSON
 - Runs entirely on your machine — no account needed, no data sent anywhere except to your chosen LLM
 
-The backend scrapes ycombinator.com every day at 3am and stores jobs in a hosted database. You run `job_matcher.py` locally, it fetches the latest jobs, your LLM scores them against your profile, and you get ranked results.
+The backend scrapes ycombinator.com every day and stores jobs in a hosted database. You run `job_matcher.py` locally, it fetches the latest jobs, your LLM scores them against your profile, and you get ranked results.
 
 ---
 
