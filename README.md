@@ -271,6 +271,30 @@ yc-jobmatcher-agent-cli/
 
 ---
 
+## Data accuracy
+
+Job data is scraped directly from ycombinator.com every alternate day. 
+While we do our best to capture all fields accurately, keep in mind:
+
+- **Some fields may be incomplete** — not every company fills in salary, 
+  equity, or visa on their YC listing. Missing fields show as blank.
+
+- **Data can be up to 2 days old** — scraper runs on alternate days. 
+  A job posted today may not appear until the next scrape.
+
+- **Companies may have already filled the role** — YC listings are not 
+  always removed when a position is closed. Always verify on the 
+  company's website before applying.
+
+- **Salary and equity are self-reported** — numbers come directly from 
+  what the company entered on YC. They may not reflect final offer.
+
+- **LLM matching is not perfect** — scores are semantic estimates. 
+  A 90/100 match doesn't guarantee it's the right role for you. 
+  Always read the full job description before applying.
+
+Always treat results as a starting point — not a final answer.
+
 ## Troubleshooting
 
 **Cannot reach API**
