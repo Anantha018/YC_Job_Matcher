@@ -164,16 +164,16 @@ Terminal output shows:
 ────────────────────────────────────────────────────
  #1 [92/100] STRONG
 ────────────────────────────────────────────────────
- Company   Kinro
+ Company   ABCDEF
  Role      Founding AI Engineer
  Type      Full-time · 3+ years
  Salary    $120K - $300K  |  Equity 0.75% - 2.00%
  Location  San Francisco, CA, US  |  Visa Will sponsor
  Skills    Python, FastAPI, React
  Why       Python/FastAPI background maps directly to their AI agent stack
- Apply     https://ycombinator.com/companies/kinro/jobs/...
- Founder   Parth Ainampudi
- Founder   Corentin Hugot  https://linkedin.com/in/corentin-hugot
+ Apply     https://ycombinator.com/companies/ABCDEF/jobs/...
+ Founder   ABCDEF
+ Founder   ABC  https://linkedin.com/in/ABCDEF
 ```
 
 ---
